@@ -1,0 +1,7 @@
+C:\dev\UDP_test\UDP\UDP_listner\bin\Debug\UDP_listner.exe
+C:\dev\UDP_test\UDP\UDP_listner\bin\Debug\UDP_listner.pdb
+C:\dev\UDP_test\UDP\UDP_listner\obj\Debug\UDP_listner.csproj.AssemblyReference.cache
+C:\dev\UDP_test\UDP\UDP_listner\obj\Debug\UDP_listner.csproj.SuggestedBindingRedirects.cache
+C:\dev\UDP_test\UDP\UDP_listner\obj\Debug\UDP_listner.csproj.CoreCompileInputs.cache
+C:\dev\UDP_test\UDP\UDP_listner\obj\Debug\UDP_listner.exe
+C:\dev\UDP_test\UDP\UDP_listner\obj\Debug\UDP_listner.pdb
