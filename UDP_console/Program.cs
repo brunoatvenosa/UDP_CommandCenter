@@ -9,14 +9,14 @@ namespace UDP_console
     {
         public static void Main(string[] args)
         {
-            Socket s = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
+            Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
     
             IPAddress broadcast = IPAddress.Parse("192.168.15.255");
     
-            byte[] sendbuf = Encoding.UTF32.GetBytes("til ã arroba @ cedilha ç");
+            byte[] sendbuf = Encoding.UTF32.GetBytes("0000alvo0000coma");
             IPEndPoint ep = new IPEndPoint(broadcast, 11000);
     
-            s.SendTo(sendbuf, ep);
+            socket.SendTo(sendbuf, ep);
     
             Console.WriteLine("Message sent to the broadcast address");
         }

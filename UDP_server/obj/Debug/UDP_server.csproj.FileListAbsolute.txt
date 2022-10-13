@@ -9,3 +9,14 @@ C:\dev\UDP_test\UDP\UDP_server\obj\Debug\UDP_server.csproj.CoreCompileInputs.cac
 C:\dev\UDP_test\UDP\UDP_server\obj\Debug\UDP_server.exe
 C:\dev\UDP_test\UDP\UDP_server\obj\Debug\UDP_server.pdb
 C:\dev\UDP_test\UDP\UDP_server\obj\Debug\UDP_server.Form1.resources
+C:\dev\UDP_test\UDP_server\bin\Debug\UDP_server.exe.config
+C:\dev\UDP_test\UDP_server\bin\Debug\UDP_server.exe
+C:\dev\UDP_test\UDP_server\bin\Debug\UDP_server.pdb
+C:\dev\UDP_test\UDP_server\obj\Debug\UDP_server.csproj.AssemblyReference.cache
+C:\dev\UDP_test\UDP_server\obj\Debug\UDP_server.csproj.SuggestedBindingRedirects.cache
+C:\dev\UDP_test\UDP_server\obj\Debug\UDP_server.Form1.resources
+C:\dev\UDP_test\UDP_server\obj\Debug\UDP_server.Properties.Resources.resources
+C:\dev\UDP_test\UDP_server\obj\Debug\UDP_server.csproj.GenerateResource.cache
+C:\dev\UDP_test\UDP_server\obj\Debug\UDP_server.csproj.CoreCompileInputs.cache
+C:\dev\UDP_test\UDP_server\obj\Debug\UDP_server.exe
+C:\dev\UDP_test\UDP_server\obj\Debug\UDP_server.pdb

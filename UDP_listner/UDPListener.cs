@@ -21,6 +21,9 @@ public class UDPListener
         
                 Console.WriteLine($"Received broadcast from {groupEP} :");
                 Console.WriteLine($" {Encoding.UTF8.GetString(bytes, 0, bytes.Length)}");
+                // Console.WriteLine($"alvo {Encoding.UTF8.GetString(bytes, 0, 8)}");
+                // Console.WriteLine($"comando {Encoding.UTF8.GetString(bytes, 9, 16)}");
+                // Console.WriteLine($"parametro {Encoding.UTF8.GetString(bytes, 17, 32)}");
             }
         }
         catch (SocketException e)
