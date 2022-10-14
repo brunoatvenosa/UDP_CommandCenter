@@ -1,4 +1,7 @@
-﻿namespace UDP_listner
+﻿using System;
+using System.Threading;
+
+namespace UDP_listner
 {
     internal class Program
     {
@@ -6,6 +9,16 @@
         {
             var listener = new UDPListener();
             listener.StartListener();
+            
+            Thread InstanceCaller = new Thread(
+                new ThreadStart(listener.StartListener));
+
+            // Start the thread.
+            InstanceCaller.Start();
+
+            
         }
+
+       
     }
 }

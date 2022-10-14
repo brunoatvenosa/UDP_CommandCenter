@@ -5,3 +5,13 @@ C:\dev\UDP_test\UDP\UDP_console\obj\Debug\UDP_console.csproj.SuggestedBindingRed
 C:\dev\UDP_test\UDP\UDP_console\obj\Debug\UDP_console.csproj.CoreCompileInputs.cache
 C:\dev\UDP_test\UDP\UDP_console\obj\Debug\UDP_console.exe
 C:\dev\UDP_test\UDP\UDP_console\obj\Debug\UDP_console.pdb
+D:\projetos\ambev\UDP_test\UDP_console\bin\Debug\UDP_console.exe
+D:\projetos\ambev\UDP_test\UDP_console\bin\Debug\UDP_console.pdb
+D:\projetos\ambev\UDP_test\UDP_console\obj\Debug\UDP_console.csproj.AssemblyReference.cache
+D:\projetos\ambev\UDP_test\UDP_console\obj\Debug\UDP_console.csproj.SuggestedBindingRedirects.cache
+D:\projetos\ambev\UDP_test\UDP_console\obj\Debug\UDP_console.csproj.CoreCompileInputs.cache
+D:\projetos\ambev\UDP_test\UDP_console\obj\Debug\UDP_console.exe
+D:\projetos\ambev\UDP_test\UDP_console\obj\Debug\UDP_console.pdb
+D:\projetos\ambev\UDP_test\UDP_console\bin\Debug\UDP_listner.exe
+D:\projetos\ambev\UDP_test\UDP_console\bin\Debug\UDP_listner.pdb
+D:\projetos\ambev\UDP_test\UDP_console\obj\Debug\UDP_console.csproj.CopyComplete
