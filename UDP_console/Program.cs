@@ -26,7 +26,9 @@ namespace UDP_console
 
             string id_sender = "0123456789012345"; // get info from setup.txt 
             string id_receiver = "5432109876543210";
-            string command = Protocol.command_resetAll;
+            // string command = Protocol.command_back;
+            string command = Protocol.command_stop;
+            // string command = Protocol.command_next;
             string content = "AZZZZZB";
 
 

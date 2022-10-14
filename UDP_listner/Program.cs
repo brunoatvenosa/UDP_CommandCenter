@@ -16,6 +16,26 @@ namespace UDP_listner
             // Start the thread.
             InstanceCaller.Start();
 
+            while (true)
+            {
+                var data = CommandStack.GetFirst();
+                if (data != null)
+                {
+                    if (data.Command == Protocol.command_next.Trim())
+                    {
+                        MediaControl.Next();
+                    }
+
+                    if (data.Command == Protocol.command_back.Trim())
+                    {
+                        MediaControl.Back();
+                    }
+                    
+                }
+            }
+            {
+                
+            }
             
         }
 
