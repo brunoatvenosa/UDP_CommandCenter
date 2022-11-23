@@ -39,7 +39,16 @@ public class UDPListener
         }
         finally
         {
+            
+            Console.WriteLine("********** SOCKET CLOSED **********");
+            Console.WriteLine("");
             listener.Close();
+
         }
+    }
+
+    private void CallBack(string command)
+    {
+        Console.WriteLine("COMMAND = " + command);
     }
 }

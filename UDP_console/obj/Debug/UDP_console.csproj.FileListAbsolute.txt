@@ -5,10 +5,3 @@ C:\dev\UDP_test\UDP\UDP_console\obj\Debug\UDP_console.csproj.SuggestedBindingRed
 C:\dev\UDP_test\UDP\UDP_console\obj\Debug\UDP_console.csproj.CoreCompileInputs.cache
 C:\dev\UDP_test\UDP\UDP_console\obj\Debug\UDP_console.exe
 C:\dev\UDP_test\UDP\UDP_console\obj\Debug\UDP_console.pdb
-C:\dev\UDP_test\UDP_console\bin\Debug\UDP_console.exe
-C:\dev\UDP_test\UDP_console\bin\Debug\UDP_console.pdb
-C:\dev\UDP_test\UDP_console\obj\Debug\UDP_console.csproj.AssemblyReference.cache
-C:\dev\UDP_test\UDP_console\obj\Debug\UDP_console.csproj.SuggestedBindingRedirects.cache
-C:\dev\UDP_test\UDP_console\obj\Debug\UDP_console.csproj.CoreCompileInputs.cache
-C:\dev\UDP_test\UDP_console\obj\Debug\UDP_console.exe
-C:\dev\UDP_test\UDP_console\obj\Debug\UDP_console.pdb
