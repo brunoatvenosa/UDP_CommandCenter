@@ -13,8 +13,8 @@ namespace UDP_console
     
             IPAddress broadcast = IPAddress.Parse("192.168.15.255");
     
-            byte[] sendbuf = Encoding.UTF32.GetBytes("0000alvo0000coma");
-            IPEndPoint ep = new IPEndPoint(broadcast, 11000);
+            byte[] sendbuf = Encoding.UTF8.GetBytes("0000alvo0000coma");
+            IPEndPoint ep = new IPEndPoint(broadcast, 5009);
     
             socket.SendTo(sendbuf, ep);
     
