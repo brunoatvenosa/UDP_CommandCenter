@@ -1,1 +1,1 @@
-UDP_console.exe "teste"
+UDP_console.exe 192.168.15.255 5009 "teste"
