@@ -15,3 +15,12 @@ C:\dev\UDP_test\UDP_listner\obj\Debug\UDP_listner.csproj.CoreCompileInputs.cache
 C:\dev\UDP_test\UDP_listner\obj\Debug\UDP_listner.csproj.CopyComplete
 C:\dev\UDP_test\UDP_listner\obj\Debug\UDP_listner.exe
 C:\dev\UDP_test\UDP_listner\obj\Debug\UDP_listner.pdb
+C:\dev\UDP_CommandCenter\UDP_listner\bin\Debug\UDP_listner.exe
+C:\dev\UDP_CommandCenter\UDP_listner\bin\Debug\UDP_listner.pdb
+C:\dev\UDP_CommandCenter\UDP_listner\bin\Debug\Newtonsoft.Json.dll
+C:\dev\UDP_CommandCenter\UDP_listner\bin\Debug\Newtonsoft.Json.xml
+C:\dev\UDP_CommandCenter\UDP_listner\obj\Debug\UDP_listner.csproj.AssemblyReference.cache
+C:\dev\UDP_CommandCenter\UDP_listner\obj\Debug\UDP_listner.csproj.CoreCompileInputs.cache
+C:\dev\UDP_CommandCenter\UDP_listner\obj\Debug\UDP_list.DD4BE65F.Up2Date
+C:\dev\UDP_CommandCenter\UDP_listner\obj\Debug\UDP_listner.exe
+C:\dev\UDP_CommandCenter\UDP_listner\obj\Debug\UDP_listner.pdb

@@ -1,1 +1,1 @@
-UDP_console.exe 192.168.15.255 5009 "teste"
+UDP_console.exe 192.168.50.255 12345  "{\"Id_sender\":4,\"Id_receiver\":[100],\"Command\":\"scan\",\"Content\":\"\"}"

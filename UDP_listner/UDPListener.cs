@@ -8,7 +8,6 @@ using UDP_listner;
 //https://learn.microsoft.com/en-us/answers/questions/562659/how-can-send-a-udp-broadcast-to-any-ip-address-on.html
 public class UDPListener
 {
-    private const int listenPort = 5009;
         
     public void StartListener()
     {
@@ -28,7 +27,7 @@ public class UDPListener
                 
                 Console.WriteLine("Comando: " + jObj["Command"].Value<string>());
                 Console.WriteLine("Conteudo: " + jObj["Content"].Value<string>());
-                Console.WriteLine("ID do alvo: " + jObj["Id_receiver"].Value<int>());
+                Console.WriteLine("ID do alvo: " + jObj["Id_receiver"][0].Value<int>());
                 Console.WriteLine("ID de envio: " + jObj["Id_sender"].Value<int>());
 
             }
@@ -43,7 +42,7 @@ public class UDPListener
             Console.WriteLine("********** SOCKET CLOSED **********");
             Console.WriteLine("");
             listener.Close();
-
+            Console.Read();
         }
     }
 

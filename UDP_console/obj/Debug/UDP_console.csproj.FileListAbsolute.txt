@@ -17,3 +17,14 @@ C:\dev\UDP_test\UDP_console\obj\Debug\UDP_console.csproj.CoreCompileInputs.cache
 C:\dev\UDP_test\UDP_console\obj\Debug\UDP_console.csproj.CopyComplete
 C:\dev\UDP_test\UDP_console\obj\Debug\UDP_console.exe
 C:\dev\UDP_test\UDP_console\obj\Debug\UDP_console.pdb
+C:\dev\UDP_CommandCenter\UDP_console\bin\Debug\UDP_console.exe
+C:\dev\UDP_CommandCenter\UDP_console\bin\Debug\UDP_console.pdb
+C:\dev\UDP_CommandCenter\UDP_console\bin\Debug\UDP_listner.exe
+C:\dev\UDP_CommandCenter\UDP_console\bin\Debug\Newtonsoft.Json.dll
+C:\dev\UDP_CommandCenter\UDP_console\bin\Debug\UDP_listner.pdb
+C:\dev\UDP_CommandCenter\UDP_console\bin\Debug\Newtonsoft.Json.xml
+C:\dev\UDP_CommandCenter\UDP_console\obj\Debug\UDP_console.csproj.AssemblyReference.cache
+C:\dev\UDP_CommandCenter\UDP_console\obj\Debug\UDP_console.csproj.CoreCompileInputs.cache
+C:\dev\UDP_CommandCenter\UDP_console\obj\Debug\UDP_cons.17FA9770.Up2Date
+C:\dev\UDP_CommandCenter\UDP_console\obj\Debug\UDP_console.exe
+C:\dev\UDP_CommandCenter\UDP_console\obj\Debug\UDP_console.pdb

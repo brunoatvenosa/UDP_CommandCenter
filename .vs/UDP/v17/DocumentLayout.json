@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\UDP_CommandCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE02259A-D3A6-4AC0-B4FA-2E213FB5D5CB}|UDP_listner\\UDP_listner.csproj|c:\\dev\\udp_commandcenter\\udp_listner\\udplistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE02259A-D3A6-4AC0-B4FA-2E213FB5D5CB}|UDP_listner\\UDP_listner.csproj|solutionrelative:udp_listner\\udplistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247FD889-D028-4912-BB7C-459D91623FFE}|UDP_console\\UDP_console.csproj|c:\\dev\\udp_commandcenter\\udp_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247FD889-D028-4912-BB7C-459D91623FFE}|UDP_console\\UDP_console.csproj|solutionrelative:udp_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE02259A-D3A6-4AC0-B4FA-2E213FB5D5CB}|UDP_listner\\UDP_listner.csproj|c:\\dev\\udp_commandcenter\\udp_listner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE02259A-D3A6-4AC0-B4FA-2E213FB5D5CB}|UDP_listner\\UDP_listner.csproj|solutionrelative:udp_listner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE02259A-D3A6-4AC0-B4FA-2E213FB5D5CB}|UDP_listner\\UDP_listner.csproj|c:\\dev\\udp_commandcenter\\udp_listner\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE02259A-D3A6-4AC0-B4FA-2E213FB5D5CB}|UDP_listner\\UDP_listner.csproj|solutionrelative:udp_listner\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UDPListener.cs",
+              "DocumentMoniker": "C:\\dev\\UDP_CommandCenter\\UDP_listner\\UDPListener.cs",
+              "RelativeDocumentMoniker": "UDP_listner\\UDPListener.cs",
+              "ToolTip": "C:\\dev\\UDP_CommandCenter\\UDP_listner\\UDPListener.cs",
+              "RelativeToolTip": "UDP_listner\\UDPListener.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:27:47.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\dev\\UDP_CommandCenter\\UDP_listner\\Config.cs",
+              "RelativeDocumentMoniker": "UDP_listner\\Config.cs",
+              "ToolTip": "C:\\dev\\UDP_CommandCenter\\UDP_listner\\Config.cs",
+              "RelativeToolTip": "UDP_listner\\Config.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:27:49.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\UDP_CommandCenter\\UDP_listner\\Program.cs",
+              "RelativeDocumentMoniker": "UDP_listner\\Program.cs",
+              "ToolTip": "C:\\dev\\UDP_CommandCenter\\UDP_listner\\Program.cs",
+              "RelativeToolTip": "UDP_listner\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:27:48.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\UDP_CommandCenter\\UDP_console\\Program.cs",
+              "RelativeDocumentMoniker": "UDP_console\\Program.cs",
+              "ToolTip": "C:\\dev\\UDP_CommandCenter\\UDP_console\\Program.cs",
+              "RelativeToolTip": "UDP_console\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:25:08.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
